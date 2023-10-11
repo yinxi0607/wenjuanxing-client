@@ -1,0 +1,16 @@
+.componentWrapper{
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.submitBtnContainer{
+  text-align: center;
+  margin: 16px;
+
+  button{
+    color: white;
+    background-color: blue;
+    border: 1px solid transparent;
+    padding: 4px 15px;
+    border-radius: 5px;
+  }
+}
